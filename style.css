@@ -1,0 +1,11 @@
+body {
+	background-color: #cfcfcf;
+	font-family: 'Roboto', sans-serif;
+	text-align: center;
+}
+#now {
+	padding-bottom: 20px;
+}
+#s, #m, #h, #d, #mh, #y { 
+	font-weight: bold;
+}
